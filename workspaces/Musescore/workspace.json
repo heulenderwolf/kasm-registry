@@ -16,5 +16,6 @@
     "1.14.x",
     "1.15.x"
   ],
-  "uncompressed_size_mb": 200
+  "uncompressed_size_mb": 200,
+  "docker_registry": "https://docker.tobimobi.ch/"
 }
