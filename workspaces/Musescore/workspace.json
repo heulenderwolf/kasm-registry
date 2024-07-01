@@ -1,7 +1,7 @@
 {
   "description": "MuseScore Studio is a free and open-source music notation program.",
-  "docker_registry": "https://index.docker.io/v1/",
-  "name": "musescore",
+  "docker_registry": "https://docker.tobimobi.ch/",
+  "name": "docker.tobimobi.ch/musescore",
   "image_src": "musescore.svg",
   "categories": [
     "Multimedia"
@@ -16,6 +16,5 @@
     "1.14.x",
     "1.15.x"
   ],
-  "uncompressed_size_mb": 200,
-  "docker_registry": "https://docker.tobimobi.ch/"
+  "uncompressed_size_mb": 2200
 }
